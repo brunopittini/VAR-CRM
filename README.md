@@ -1,2 +1,2 @@
 # VAR-CRM
-a customer relationship management tool designed for value-added resellers.
+a customer relationship management tool designed for value-added resellers. Built using Django.
