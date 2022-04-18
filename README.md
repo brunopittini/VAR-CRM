@@ -1,2 +1,2 @@
 # VAR-CRM
-a customer relationship management tool designed with the needs of value-added resellers in mind.
+a customer relationship management tool designed for value-added resellers.
